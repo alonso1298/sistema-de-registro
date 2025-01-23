@@ -1,1 +1,2 @@
-# sistema-de-registro
+# Sistema de registro
+- Estado del proyecto: En construcción 
